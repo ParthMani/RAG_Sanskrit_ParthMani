@@ -1,0 +1,9 @@
+transformers==5.0.0
+torch==2.10.0+cpu
+python-docx
+pypdf
+indic-transliteration
+scikit-learn
+joblib
+sentencepiece
+protobuf
