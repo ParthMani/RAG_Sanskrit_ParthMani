@@ -8,7 +8,7 @@ This repository contains a minimal Retrieval-Augmented Generation (RAG) proof-of
 
 ## Demo
 
-[Demonstration Video](Demonstration%20Video.mp4)
+[[Demonstration Video](Demonstration%20Video.mp4)](https://github.com/user-attachments/assets/c4d9cbf6-00b9-4a06-9945-ea792491fe1c)
 
 ## Setup (Windows)
 
